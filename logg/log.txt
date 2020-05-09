@@ -1,0 +1,28 @@
+2020-05-09 13:38:11.445396
+Имя функции: read_data
+Аргументы: ('artists.csv', Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'netology_test0_0_5'), 'artists'))
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/ORM MongoDB/logg/log.txt
+
+2020-05-09 13:39:05.847299
+Имя функции: find_cheapest
+Аргументы: (Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'netology_test0_0_6'), 'artists'),)
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/ORM MongoDB/logg/log.txt
+
+2020-05-09 13:39:05.851533
+Имя функции: find_by_name
+Аргументы: ('Lil Jon', Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'netology_test0_0_6'), 'artists'))
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/ORM MongoDB/logg/log.txt
+
+2020-05-09 13:39:05.853832
+Имя функции: find_by_date
+Аргументы: (Collection(Database(MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True), 'netology_test0_0_6'), 'artists'),)
+Результат: None
+
+Путь к логам: /home/alex/Python PROJECT/GitHub/course for python/Next Level/ORM MongoDB/logg/log.txt
+
